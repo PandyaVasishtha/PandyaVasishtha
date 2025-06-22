@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandyavasishtha" alt="pandyavasishtha" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter UI/UX patterns Backend scaling techniques with Go (Golang) TensorFlow Lite & TensorFlow.js for deploying lightweight ML models Chrome Extension APIs and optimization for real-time applications**
-
 - 📫 How to reach me **b22cs036@iitj.ac.in**
 
 - ⚡ Fun fact **I am Groot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasishtha pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasishtha pandya" height="30" width="40" /></a>
+<a href=["[https://linkedin.com/in/vasishtha-pandya-244648254/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasishtha pandya" height="30" width="40" /></a>
 <a href="https://instagram.com/vaspan_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaspan_32" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darkhorse_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darkhorse_04" height="30" width="40" /></a>
 </p>
